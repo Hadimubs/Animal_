@@ -1,0 +1,33 @@
+body{
+background-color: black;
+color:white;
+font-family: 'Special Elite', cursive;
+}
+.header_div{
+background-color: white;
+color:red;
+}
+    .header_div p{
+        font-family: 'Roboto', sans-serif;
+        color:black;
+        font-weight: bold;
+        font-size: 12px;
+        letter-spacing: 2px;
+    }
+#q button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+#d{
+bottom:0;
+position: fixed;
+width: 100%;
+background-color: black;
+color: yellow;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px goldenrod;
+}
